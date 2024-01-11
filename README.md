@@ -1,0 +1,1 @@
+At the end of this lesson, I expect to be able to effectively utilize the command line and my html skills to create a recipe website. 
